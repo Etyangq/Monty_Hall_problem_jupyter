@@ -14,5 +14,5 @@ Le joueur doit alors faire un nouveau choix. Il peut soit choisir d'ouvrir la pr
 - Fichier "Monty-Hall-problème " concerne plutôt les Data Scientists.
 - Fichier "Monty-Hall-Problème-Exercice " ajouter une exercice : Nous pouvons imaginer une autre stratégie, où le joueur choisit aléatoirement une porte entre la première et celle que le présentateur n'a pas éliminée. Implémentez cette stratégie et observez les résultats.
 Résultats: Le gain attendu se situe à mi-chemin des gains attendus avec les deux stratégies initiales.
-- Fichier "Monty-Hall-Problème-Numpy "Simulation du problème de Monty Hall avec Numpy.
+- Fichier "Monty-Hall-Problème-Numpy": Simulation du problème de Monty Hall avec Numpy.
 
